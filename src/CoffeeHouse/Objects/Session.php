@@ -41,7 +41,7 @@
          * Creates an array that represents this object's structure and values
          *
          * @return array
-         */
+         *  /
         public function toArray(): array
         {
             return array(
