@@ -34,7 +34,7 @@
          * @param string $api_key
          * @param string $endpoint
          */
-        public function __construct(string $api_key, string $endpoint = "https://api.intellivoid.info/coffeehouse")
+        public function __construct(string $api_key, string $endpoint = "https://api.intellivoid.net/coffeehouse")
         {
             $this->api_key = $api_key;
             $this->endpoint = $endpoint;
